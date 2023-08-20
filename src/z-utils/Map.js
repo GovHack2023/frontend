@@ -6,7 +6,7 @@ import { melbourneData } from "./melbourneoutline";
 import { sydneyData } from "./sydney";
 import { brisbaneData } from "./brisbaneoutline";
 import { perthData } from "./perthoutline";
-import { PassedFlag } from "../components-1/MainBox";
+import { PassedFlag } from "../z-components/MainBox";
 
 import { useContext } from "react";
 
